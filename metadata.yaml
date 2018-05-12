@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45604#The-Lives-of-the-Saints-Volume-II--of-16---February
 gutenberg_issued: '2014-05-07'
 gutenberg_type: Text
 identifiers:
