@@ -1,0 +1,31 @@
+_repo: The-Lives-of-the-Saints-Volume-II--of-16---February_45604
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45604-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, Sabine Baring
+    - Gould, S. Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2014-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian saints'
+title: 'The Lives of the Saints, Volume 02 (of 16): February'
+url: http://www.gutenberg.org/ebooks/45604
